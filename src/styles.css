@@ -96,3 +96,9 @@ footer {
 
   color: rgba(39, 33, 66, 0.4);
 }
+.current-weather-icon {
+  width: 50px;  /* Adjust size of the icon */
+  height: 50px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
